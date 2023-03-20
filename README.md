@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm hackerReloaded</h1>
+<h1 align="center">Hi 👋, I'm HackerReloaded</h1>
 <h3 align="center">A passionate hacker from India</h3>
+
+<img align="right" alt="bean" width="400" src="https://www.bing.com/th/id/OGC.cd741ab1a8c2fe4639e7ef1d9a3026a3?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f76%2f0f%2f53%2f760f531b60f0c0f07b9579cdfb61ff6c.gif&ehk=c3vSOqAzr7crcHs56RgkS2BewkFtxU0WF%2f4R2Cpp1rA%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerreloaded&label=Profile%20views&color=0e75b6&style=flat" alt="hackerreloaded" /> </p>
 
